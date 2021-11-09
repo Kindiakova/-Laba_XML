@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Dorms>
+	<Dormitory Number = "16">
+		<Student 
+			Name = "Єгор"
+			Surname = "Крітенко" 
+			Patronymic = "Вадимович"
+			Faculty = "Комп'ютерних наук та кібернетики"
+			Cathedra = "ТЕОРЕТИЧНОЇ КІБЕРНЕТИКИ"
+			Year = "1 бакалавр"
+			Room = "105/2"
+			InDate ="01.09.2021"
+			OutDate ="30.06.2025">
+		</Student>
+		
+		<Student
+			Name ="Єгор"
+			Surname ="Грищенко"
+			Patronymic ="Іванович"
+			Faculty = "Комп'ютерних наук та кібернетики"
+			Cathedra = "ТЕОРЕТИЧНОЇ КІБЕРНЕТИКИ"
+			Year ="1 бакалавр"
+			Room = "105/2"
+			InDate ="01.09.2021"
+			OutDate ="30.06.2025">
+		</Student>
+		
+		<Student
+			Name ="Іван"
+			Surname ="Мандрич"
+			Patronymic ="Максимович"
+			Faculty = "Комп'ютерних наук та кібернетики"
+			Cathedra ="ТЕОРЕТИЧНОЇ КІБЕРНЕТИКИ"
+			Year ="1 бакалавр"
+			Room = "202/3"
+			InDate ="01.09.2021"
+			OutDate ="30.06.2025">
+		</Student>
+		
+		<Student
+			Name ="Євгеній"
+			Surname ="Крітенко"
+			Patronymic ="Ростиславович"
+			Faculty = "Комп'ютерних наук та кібернетики"
+			Cathedra ="ТЕОРЕТИЧНОЇ КІБЕРНЕТИКИ"
+			Year ="1 бакалавр"
+			Room = "202/3"
+			InDate ="01.09.2021"
+			OutDate ="30.06.2025">
+		</Student>
+		
+		<Student
+			Name = "Александр"
+			Surname = "Бурчак"
+			Patronymic ="Іванович"
+			Faculty = "Інформаційних технологій"
+			Cathedra ="Кафедра інтелектуальних технологій"
+			Year ="2 бакалавр"
+			Room = "111/3"
+			InDate ="01.09.2020"
+			OutDate ="30.06.2024">
+		</Student>
+		
+		<Student
+			Name ="Олександра"
+			Surname = "Бурячок"
+			Patronymic ="Бажанівна"
+			Faculty ="Інформаційних технологій"
+			Cathedra = "Кафедра інтелектуальних технологій"
+			Year ="2 бакалавр"
+			Room = "201/3"
+			InDate ="01.09.2020"
+			OutDate ="30.06.2024">
+		</Student>
+
+		<Student
+			Name = "Анастасія"
+			Surname = "Степанюк"
+			Patronymic ="Тарасівна"
+			Faculty ="Інформаційних технологій"
+			Cathedra = "Кафедра кібербезпеки та захисту інформації"
+			Year ="2 бакалавр"
+			Room = "303/3"
+			InDate ="01.09.2020"
+			OutDate ="30.06.2024">
+		</Student>
+
+		<Student
+			Name = "Анастасія"
+			Surname = "Буряк"
+			Patronymic = "Вікторівна"
+			Faculty = "Радіофізики, електроніки та комп’ютерних систем"
+			Cathedra ="Фізичної електроніки"
+			Year ="1 бакалавр"
+			Room = "303/3"
+			InDate ="01.09.2021"
+			OutDate ="30.06.2025">
+		</Student>
+
+		<Student
+			Name ="Анастасія"
+			Surname ="Калиниченко"
+			Patronymic ="Іванівна"
+			Faculty ="Радіофізики, електроніки та комп’ютерних систем"
+			Cathedra ="Фізичної електроніки"
+			Year ="3 бакалавр"
+			Room = "505/2"
+			InDate ="01.09.2019"
+			OutDate ="30.06.2023">
+		</Student>
+
+		<Student
+			Name ="Олександра"
+			Surname = "Зайченко"
+			Patronymic ="Іванівна"
+			Faculty = "Радіофізики, електроніки та комп’ютерних систем"
+			Cathedra ="Комп’ютерної інженерії"
+			Year ="1 бакалавр"
+			Room = "505/2"
+			InDate ="01.09.2021"
+			OutDate ="30.06.2025">
+		</Student>
+
+
+	</Dormitory>
+
+	<Dormitory Number = "17">
+		<Student
+			Name ="Іван"
+			Surname ="Грищенко"
+			Patronymic ="Максимович"
+			Faculty = "Соціології"
+			Cathedra ="Теорії та історії соціології"
+			Year ="1 бакалавр"
+			Room = "214/2"
+			InDate ="01.09.2021"
+			OutDate ="30.06.2025">
+		</Student>
+
+		<Student
+			Name ="Ігор"
+			Surname = "Протасюк"
+			Patronymic ="Ростиславович"
+			Faculty = "Соціології"
+			Cathedra ="Теорії та історії соціології"
+			Year ="4 бакалавр"
+			Room = "202/3"
+			InDate ="01.09.2018"
+			OutDate ="30.06.2022">
+		</Student>
+
+		<Student
+			Name ="Катерина"
+			Surname = "Зубок"
+			Patronymic ="Максимівна"
+			Faculty ="Соціології"
+			Cathedra ="Галузевої соціології"
+			Year ="3 бакалавр"
+			Room = "214/2"
+			InDate ="01.09.2019"
+			OutDate ="30.06.2023">
+		</Student>
+
+		<Student
+			Name = "Маргарита"
+			Surname ="Калиниченко"
+			Patronymic ="Владиславівна"
+			Faculty ="Соціології"
+			Cathedra ="Галузевої соціології"
+			Year ="3 бакалавр"
+			Room = "101/3"
+			InDate ="01.09.2019"
+			OutDate ="30.06.2023">
+		</Student>
+
+		<Student
+			Name = "Маргарита"
+			Surname = "Степанюк"
+			Patronymic ="Семенівна"
+			Faculty ="Економічний"
+			Cathedra ="Економічної кібернетики"
+			Year ="3 бакалавр"
+			Room = "101/3"
+			InDate ="01.09.2019"
+			OutDate ="30.06.2023">
+		</Student>
+
+		<Student
+			Name = "Євгеній"
+			Surname ="Вишняк"
+			Patronymic ="Ігорович"
+			Faculty ="Економічний"
+			Cathedra ="Економічної кібернетики"
+			Year = "1 магістр"
+			Room = "101/2"
+			InDate = "01.09.2022"
+			OutDate ="30.06.2024">
+		</Student>
+
+		<Student
+			Name ="Леся"
+			Surname = "Степула"
+			Patronymic ="Владиславівна"
+			Faculty ="Економічний"
+			Cathedra ="Економічної кібернетики"
+			Year ="4 бакалавр"
+			Room = "404/2"
+			InDate ="01.09.2018"
+			OutDate ="30.06.2022">
+		</Student>
+
+		<Student
+			Name ="Анжела"
+			Surname = "Калиниченко"
+			Patronymic ="Ростиславівна"
+			Faculty ="Економічний"
+			Cathedra ="Економічної кібернетики"
+			Year ="1 бакалавр"
+			Room = "404/2"
+			InDate ="01.09.2021"
+			OutDate ="30.06.2025">
+		</Student>
+
+	</Dormitory>
+
+	<Dormitory Number = "18">
+		<Student
+			Name ="Антон"
+			Surname ="Крітенко"
+			Patronymic ="Остапович"
+			Faculty ="Географічний"
+			Cathedra ="Країнознавства та туризму"
+			Year ="1 бакалавр"
+			Room = "103/2"
+			InDate ="01.09.2021"
+			OutDate ="30.06.2025">
+		</Student>
+
+		<Student
+			Name ="Антон"
+			Surname ="Вишняк"
+			Patronymic ="Ігорович"
+			Faculty ="Географічний"
+			Cathedra ="Країнознавства та туризму"
+			Year ="2 бакалавр"
+			Room = "103/2"
+			InDate ="01.09.2020"
+			OutDate ="30.06.2024">
+		</Student>
+
+		<Student
+			Name ="Іван"
+			Surname ="Вишняк"
+			Patronymic ="Вадимович"
+			Faculty ="Географічний"
+			Cathedra ="Країнознавства та туризму"
+			Year ="1 бакалавр"
+			Room = "210/2"
+			InDate ="01.09.2021"
+			OutDate ="30.06.2025">
+		</Student>
+
+		<Student
+			Name ="Яна "
+			Surname = "Тищик"
+			Patronymic ="Вікторівна"
+			Faculty ="Географічний"
+			Cathedra ="Геодезії та картографії"
+			Year ="2 бакалавр"
+			Room = "210/3"
+			InDate ="01.09.2020"
+			OutDate ="30.06.2024">
+		</Student>
+
+		<Student
+			Name ="Яна"
+			Surname = "Тищик"
+			Patronymic ="Артемівна"
+			Faculty ="Географічний"
+			Cathedra ="Геодезії та картографії"
+			Year ="2 бакалавр"
+			Room = "210/3"
+			InDate ="01.09.2020"
+			OutDate ="30.06.2024">
+		</Student>
+
+		<Student
+			Name = "Яна"
+			Surname ="Зайченко"
+			Patronymic ="Вадимівна"
+			Faculty ="Географічний"
+			Cathedra ="Геодезії та картографії"
+			Year ="4 бакалавр"
+			Room = "210/3"
+			InDate ="01.09.2018"
+			OutDate ="30.06.2022">
+		</Student>
+
+	</Dormitory>
+
+</Dorms>
